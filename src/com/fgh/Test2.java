@@ -1,5 +1,5 @@
 package com.fgh;
 
-public class Test1 {
+public class Test2 {
   
 }
